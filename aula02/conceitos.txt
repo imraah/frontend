@@ -19,3 +19,19 @@ Já as TAGs compostas precisam ser encerradas. Ex:
 
   Todo o arquivo HTML deve ser salvo com a extensão .HTML
   Para testar um arquivo HTML nos o abrimos em um navegador web(Chrome, Opera, Edge, Firefox, Safari, Yandex, Brave, Tor...)
+
+
+
+  CSS, o que é?
+
+  CSS-Cascade Style Sheet(Folha de estilo em Cascata)
+  O css é utilizado para fazer formatação em páginas HTML.
+  Você pode aplicar o CSS de 3 formas:
+  - Arquivo externo de css
+  - Embutir o css na tag head da página HTML
+  - Aplicar o css diretamente na tag html desejada
+
+  Há também 3 elementos de aplicação.
+  - ID -identificador, usamos hashtag #
+  - class - classe, usamos ponto .
+  - tag - tag html 

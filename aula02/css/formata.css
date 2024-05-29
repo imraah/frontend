@@ -1,0 +1,15 @@
+body{
+    /* background-color muda a cor de fundo da página */
+    background-color:rgb(23, 145, 216)
+
+}
+
+h1{
+        /* mudar a letra do texto com font-family*/
+        font-family: "arial";
+        /* mudar o tamanho da letra */
+        font: size 40pt;
+        /* alinhar o texto ao centro */
+        text-align: center;
+
+}    
